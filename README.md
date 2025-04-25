@@ -96,7 +96,3 @@ The following features are planned for future development:
 ## License 📄
 
 This project will be soon licensed under the MIT License. You are free to use, modify, and distribute this software for personal purposes.
-
-## Authors ✍️
-
-This project is thought, planned and implemented by [Isabella Aquino](https://github.com/isabellaaquino) (backend heavy) & [Pedro Dell'Olio](https://github.com/pedrodellolio) (frontend heavy)
